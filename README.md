@@ -7,5 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=50 height=50>
 </p>
-  
 <h1>Social media</h1>
+  <a href="https://twitter.com/BenedekNagy3">
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/800px-Twitter_Logo_as_of_2021.svg.png" width=55 height=50>
+  </a>
