@@ -1,6 +1,5 @@
 <h1>BenedekNagy</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Eternadox&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedekNagy">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedekNagy&theme=dark">
 
