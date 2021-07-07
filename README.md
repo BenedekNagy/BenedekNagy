@@ -1,10 +1,3 @@
-<style>
-  twitter:hover {
-     transform: translateY(-10px);
-  } 
-</style>
-
-
 <h1>BenedekNagy</h1>
 
 <h1>Languages</h1>
@@ -25,6 +18,6 @@
   </a>
   
   <a href="https://discord.gg/ecReUeeDJN">
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=8.5%>
+    <img class="twitter" twitter:hover { transform: translateY(-10px);} src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=8.5%>
   </a>
 
