@@ -1,3 +1,10 @@
+<style>
+  twitter:hover {
+     transform: translateY(-10px);
+  } 
+</style>
+
+
 <h1>BenedekNagy</h1>
 
 <h1>Languages</h1>
@@ -14,7 +21,7 @@
 
 <h1>Social media</h1>
   <a href="https://twitter.com/BenedekNagy3">
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/800px-Twitter_Logo_as_of_2021.svg.png" width=55 height=50>
+   <img class="twitter" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/800px-Twitter_Logo_as_of_2021.svg.png" width=55 height=50>
   </a>
   
   <a href="https://discord.gg/ecReUeeDJN">
