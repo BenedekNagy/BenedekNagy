@@ -21,3 +21,6 @@
     <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=8.5%>
   </a>
 
+<style>
+  twitter:hover {transform: transletY(-10px)};
+</style>
