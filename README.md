@@ -18,5 +18,5 @@
   </a>
   
   <a href="https://discord.gg/ecReUeeDJN">
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=55 height=50>
+    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"s>
   </a>
