@@ -14,7 +14,7 @@
 
 <h1>Social media</h1>
   <a href="https://twitter.com/BenedekNagy3">
-   <img class="twitter" style="twitter:hover {transform: translateY(-10px)}" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/800px-Twitter_Logo_as_of_2021.svg.png" width=55 height=50>
+   <img class="twitter" style=":hover {transform: translateY(-10px)}" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/800px-Twitter_Logo_as_of_2021.svg.png" width=55 height=50>
   </a>
   
   <a href="https://discord.gg/ecReUeeDJN">
