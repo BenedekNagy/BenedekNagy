@@ -18,6 +18,6 @@
   </a>
   
   <a href="https://discord.gg/ecReUeeDJN">
-    <img class="twitter" twitter:hover { transform: translateY(-10px);} src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=8.5%>
+    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=8.5%>
   </a>
 
