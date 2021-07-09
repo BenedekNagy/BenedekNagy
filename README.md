@@ -11,6 +11,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50>
 </p>
 
-  <a href="https://discord.gg/ecReUeeDJN">
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=8.5%>
-  </a>
