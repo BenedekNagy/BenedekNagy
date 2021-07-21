@@ -17,3 +17,4 @@
 <h1>Events</h1>
 <h2>My Discord Self Bot is coming soon. It will include around 750 commands and it will totally free</h2<>
 [Selfbot](https://user-images.githubusercontent.com/58232420/126410726-cafefa88-1b49-4fb5-a17e-e5f755b09e34.jpg)
+<img src="https://user-images.githubusercontent.com/58232420/126410726-cafefa88-1b49-4fb5-a17e-e5f755b09e34.jpg">
