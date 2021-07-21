@@ -13,6 +13,9 @@
 
 <h1>Contacts</h1>
 <img src="https://discord.c99.nl/widget/theme-2/556125497407569931.png">
+<a href="https://twitter.com/BenedekNagy3">
+img src="https://user-images.githubusercontent.com/58232420/126411010-533726b5-ab4f-4857-82b5-7aeae7a53a14.png">
+</a>
 
 <h1>Events</h1>
 <h2>My Discord Self Bot is coming soon, (I planned the release date for the end of the summer). It will include around 750 commands and it will totally free</h2>
