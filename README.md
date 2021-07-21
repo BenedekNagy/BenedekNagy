@@ -12,6 +12,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50>
 </p>
 
-<h1>Contacts</h1>
-<img src="https://imgur.com/npfXqyq">
-<img src="https://imgur.com/3WYWBkn">
+<h1>Events</h1>
+<h2>My Discord Self Bot is coming soon. It will include around 750 commands and it will totally free</h2>
