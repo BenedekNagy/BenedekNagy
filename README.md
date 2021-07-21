@@ -1,4 +1,6 @@
 <h1>BenedekNagy</h1>
+<br>
+
 
 <h1>Languages</h1>
 <p>
@@ -14,4 +16,4 @@
 
 <h1>Events</h1>
 <h2>My Discord Self Bot is coming soon. It will include around 750 commands and it will totally free</h2<>
-<img src="https://imgur.com/sZaJZ2j" width=100 height=70>
+<img src="https://user-images.githubusercontent.com/58232420/126410691-2681a725-0bf4-45ed-8ff4-582a3d62a6a3.jpg)" width=100 height=70>
