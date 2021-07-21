@@ -1,3 +1,4 @@
+![Selfbot](https://user-images.githubusercontent.com/58232420/126410726-cafefa88-1b49-4fb5-a17e-e5f755b09e34.jpg)
 <h1>BenedekNagy</h1>
 <br>
 
@@ -16,4 +17,4 @@
 
 <h1>Events</h1>
 <h2>My Discord Self Bot is coming soon. It will include around 750 commands and it will totally free</h2<>
-<img src="https://user-images.githubusercontent.com/58232420/126410691-2681a725-0bf4-45ed-8ff4-582a3d62a6a3.jpg)" width=100 height=70>
+<img src=Selfbot width=100 height=70>
