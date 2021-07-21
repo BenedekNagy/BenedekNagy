@@ -15,7 +15,7 @@
 <h1>Contacts</h1>
 <img src="https://discord.c99.nl/widget/theme-2/556125497407569931.png">
 <a href="https://twitter.com/BenedekNagy3">
-<img src="https://user-images.githubusercontent.com/58232420/126411591-287a3f7f-16de-4529-b839-e8be17addeba.png" width=55% height=55%>
+<img src="https://user-images.githubusercontent.com/58232420/126411591-287a3f7f-16de-4529-b839-e8be17addeba.png" width=30% height=30%>
 </a>
 
 <h1>Events</h1>
