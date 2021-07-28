@@ -20,8 +20,3 @@
 <a href="https://twitter.com/BenedekNagy3">
 <img src="https://camo.githubusercontent.com/4a5e56a400a1b16b1fdbe8fbe28a6c0a1644c7988674997e75bc5f7eafb04fa0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f362f36302f547769747465725f4c6f676f5f61735f6f665f323032312e7376672f38303070782d547769747465725f4c6f676f5f61735f6f665f323032312e7376672e706e67" width=7.5% height=7.5%>
 </a>
-
-<h1>Events</h1>
-<h2>My Discord Self Bot is coming soon, (I planned the release date for the end of the summer). It will include around 750 commands and it will totally free.</h2>
-<br>
-<img src="https://user-images.githubusercontent.com/58232420/126410726-cafefa88-1b49-4fb5-a17e-e5f755b09e34.jpg", width=70%, height=70%>
