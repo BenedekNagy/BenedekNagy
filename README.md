@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benedek</h1>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+<h1 align="left">Discord: Benedek5175</h1>
+
 <p align="left">
 </p>
 
